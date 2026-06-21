@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class HappyNumber {
+public class question1 {
     public static boolean isHappy(int n) {
         HashSet<Integer> set = new HashSet<>();
 
